@@ -1,0 +1,35 @@
+#title{
+    color: rgb(255, 196, 0);
+    text-shadow: 2px 3px black;
+    font-weight: bolder;
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.widtbl{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.cont{
+    width: 20%;
+}
+.btnwid{
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-top: 10px;
+}
+.alt{
+    width: 50%;
+    text-align: right;
+    z-index: 1;
+    visibility: hidden;
+}
+
+
+/* read.php */
+
+
+
